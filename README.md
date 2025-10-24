@@ -8,6 +8,6 @@ Each script performs lightweight enumeration and outputs JSON/human-readable res
 ## 🧰 Installation
 
 ```bash
-git clone https://github.com/<your-username>/protocol-enum-toolkit.git
+git clone https://github.com/akashrpatil/protocol-enum-toolkit.git
 cd protocol-enum-toolkit
 pip install -r requirements.txt
