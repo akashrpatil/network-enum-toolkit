@@ -98,6 +98,18 @@ sudo apt install awscli -y
 brew install awscli
 ```
 
+### 🧩 env.sample
+env.sample - COPY to .env and fill with your real credentials locally
+**NEVER COMMIT real keys to GitHub**
+
+# Example:
+```
+export AWS_KEY1="AKIAxxxxxxxxxxxxxxx"
+export AWS_SECRET1="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+export AWS_KEY2="AKIAyyyyyyyyyyyyyyy"
+export AWS_SECRET2="yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
+```
+
 ### ⚠️ Disclaimer
 
 - This tool is for authorized internal use only.
@@ -105,7 +117,7 @@ brew install awscli
 - You are responsible for all actions executed via your AWS credentials.
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 ```
 Developed by Akash Rajendra Patil
 Cyber Security Professional - Red Teaming | Cloud | Infrastructure | Application
