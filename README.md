@@ -1,7 +1,7 @@
 # Protocol Enum Toolkit
 
-A collection of small Python scripts to detect service misconfigurations and exposures (LDAP, SNMP, SMB, etc.).  
-Each script performs lightweight enumeration and outputs JSON/human-readable results.
+A collection of powerful **network, cloud, and infrastructure enumeration scripts** designed for security assessments, red teaming, and automation.  
+This toolkit currently includes a **multi-account AWS CLI executor** and will gradually expand to include modules for **SNMP, LDAP, SMB, Cloud Enumeration, and other network reconnaissance tasks**.
 
 ---
 
