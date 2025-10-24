@@ -3,7 +3,7 @@
 Enhanced SNMPv1 enumeration tool that tests SNMPv1 community strings and, when valid,
 collects useful device information (sys*, interfaces, ARP, vendor OIDs, etc).
 
-> **Safe by default**: read-only enumeration only — no `snmpset` or destructive actions.
+> **Safe by default**: read-only enumeration only - no `snmpset` or destructive actions.
 > Use this tool **only** on systems you own or where you have explicit authorization.
 
 ---
