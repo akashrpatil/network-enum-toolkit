@@ -1,2 +1,13 @@
-# network-enum-toolkit
-A collection of small Python scripts to detect service misconfigurations and exposures (LDAP, SNMP, SMB, etc.).   Each script performs lightweight enumeration and outputs JSON/human-readable results.
+# Protocol Enum Toolkit
+
+A collection of small Python scripts to detect service misconfigurations and exposures (LDAP, SNMP, SMB, etc.).  
+Each script performs lightweight enumeration and outputs JSON/human-readable results.
+
+---
+
+## 🧰 Installation
+
+```bash
+git clone https://github.com/<your-username>/protocol-enum-toolkit.git
+cd protocol-enum-toolkit
+pip install -r requirements.txt
