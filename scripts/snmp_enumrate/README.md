@@ -1,4 +1,4 @@
-# SNMPv1 Enumerator — snmpv1_enumerate.py
+# SNMPv1 Enumerator - snmpv1_enumerate.py
 
 Enhanced SNMPv1 enumeration tool that tests SNMPv1 community strings and, when valid,
 collects useful device information (sys*, interfaces, ARP, vendor OIDs, etc).
