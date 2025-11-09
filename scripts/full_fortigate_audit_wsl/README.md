@@ -1,6 +1,6 @@
 # 🛡️ FortiGate CIS Configuration Audit Automation
 
-Automated auditing of FortiGate firewall configuration files (`.conf` / `.cfg`) against CIS security benchmarks — generates individual HTML reports and a unified compliance dashboard.
+Automated auditing of FortiGate firewall configuration files (`.conf` / `.cfg`) against CIS security benchmarks generates individual HTML reports and a unified compliance dashboard.
 
 ---
 
